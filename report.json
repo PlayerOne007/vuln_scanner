@@ -1,0 +1,93 @@
+[
+  {
+    "type": "secret",
+    "severity": "HIGH",
+    "name": "Password",
+    "file": "C:\\Users\\user\\Documents\\Future Opportunties\\CV\\Personal Projects\\language_translator\\translator_env\\Lib\\site-packages\\adodbapi\\test\\adodbapitestconfig.py",
+    "line": 162
+  },
+  {
+    "type": "secret",
+    "severity": "HIGH",
+    "name": "Password",
+    "file": "C:\\Users\\user\\Documents\\Future Opportunties\\CV\\Personal Projects\\language_translator\\translator_env\\Lib\\site-packages\\adodbapi\\test\\test_adodbapi_dbapi20.py",
+    "line": 65
+  },
+  {
+    "type": "secret",
+    "severity": "MEDIUM",
+    "name": "API Key",
+    "file": "C:\\Users\\user\\Documents\\Future Opportunties\\CV\\Personal Projects\\language_translator\\translator_env\\Lib\\site-packages\\deep_translator\\deepl.py",
+    "line": 109
+  },
+  {
+    "type": "secret",
+    "severity": "HIGH",
+    "name": "Password",
+    "file": "C:\\Users\\user\\Documents\\Future Opportunties\\CV\\Personal Projects\\language_translator\\translator_env\\Lib\\site-packages\\pip\\_internal\\utils\\misc.py",
+    "line": 520
+  },
+  {
+    "type": "secret",
+    "severity": "HIGH",
+    "name": "Password",
+    "file": "C:\\Users\\user\\Documents\\Future Opportunties\\CV\\Personal Projects\\language_translator\\translator_env\\Lib\\site-packages\\win32\\lib\\win32cryptcon.py",
+    "line": 531
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "CVE-2025-8869",
+    "file": "pip",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "CVE-2026-1703",
+    "file": "pip",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "CVE-2026-3219",
+    "file": "pip",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "PYSEC-2022-43012",
+    "file": "setuptools",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "PYSEC-2022-43012",
+    "file": "setuptools",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "PYSEC-2025-49",
+    "file": "setuptools",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "PYSEC-2025-49",
+    "file": "setuptools",
+    "line": "-"
+  },
+  {
+    "type": "dependency",
+    "severity": "HIGH",
+    "name": "CVE-2024-6345",
+    "file": "setuptools",
+    "line": "-"
+  }
+]
