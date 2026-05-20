@@ -85,8 +85,9 @@ A visual report with color-coded severity levels:
 
 ## Project Structure
 
-```vuln-scanner/ ```
-```│── vuln_scanner.py```
-```│── README.md  ```
-```│── report.json ```    
-```│── report.html```
+```text
+vuln-scanner/
+│── vuln_scanner.py
+│── README.md
+│── report.json
+│── report.html```
